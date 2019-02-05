@@ -1,0 +1,211 @@
+General
+Filename.......: Garfield.A.Tail.of.Two.Kitties.2006.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 48 s 278 ms
+Size...........: 19.1 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.18 GiB (48%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 275 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 441 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.06 GiB (11%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 275 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 495 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.09 GiB (11%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 275 MiB (1%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 482 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.09 GiB (11%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 393 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 840 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.31 GiB (12%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Japanese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Indonesian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Korean
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Tagalog
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Chapters.......:  menu

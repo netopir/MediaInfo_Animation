@@ -1,0 +1,64 @@
+General
+Filename.......: Gnomeo.and.Juliet.2011.Slo.Cro.SerSinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 23 min 51 s 51 ms
+Size...........: 8.20 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 11.2 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.40 GiB (78%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 115 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 269 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 115 MiB (1%)
+Delay..........: 
+Language.......: Serbian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 269 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: 
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 905 MiB (11%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
