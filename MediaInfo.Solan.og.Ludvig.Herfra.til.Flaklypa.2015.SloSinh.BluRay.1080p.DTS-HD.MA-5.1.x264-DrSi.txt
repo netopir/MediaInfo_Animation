@@ -1,0 +1,56 @@
+General
+Filename.......: Solan.og.Ludvig.Herfra.til.Flaklypa.2015.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 18 min 29 s 430 ms
+Size...........: 13.4 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 8.71 GiB (65%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 252 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 975 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.18 GiB (16%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 359 MiB (3%)
+Delay..........: 
+Language.......: Norwegian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 554 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.95 GiB (14%)
+Delay..........: 
+Language.......: Norwegian
+Text...........: DTS-HD MA 5.1
+
+Chapters.......:  menu

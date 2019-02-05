@@ -1,0 +1,54 @@
+General
+Filename.......: Shrek.Forever.After.2010.1080p.MULTiSiNH.BluRay.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 33 min 10 s 752 ms
+Size...........: 7.84 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 9 487 kb/s
+Frame rate.....: 23.976 FPS
+Video Size.....: 6.02 GiB (77%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: Slovenski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: English
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: Hrvatski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: Serbian
+Text...........: Srpski

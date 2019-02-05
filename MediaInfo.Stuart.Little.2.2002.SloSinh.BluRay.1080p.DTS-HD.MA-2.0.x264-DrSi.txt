@@ -1,0 +1,34 @@
+General
+Filename.......: Stuart.Little.2.2002.SloSinh.BluRay.1080p.DTS-HD.MA-2.0.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 17 min 43 s 958 ms
+Size...........: 8.76 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.31 GiB (95%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 107 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 2.0
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 2 channels
+Bit rate.......: 637 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 354 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 2.0

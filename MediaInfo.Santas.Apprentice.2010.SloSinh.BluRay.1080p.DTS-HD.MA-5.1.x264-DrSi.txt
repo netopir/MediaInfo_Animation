@@ -1,0 +1,36 @@
+General
+Filename.......: Santas.Apprentice.2010.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 20 min 45 s 88 ms
+Size...........: 10.1 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 8.98 GiB (89%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 256 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 148 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 717 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 992 MiB (10%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

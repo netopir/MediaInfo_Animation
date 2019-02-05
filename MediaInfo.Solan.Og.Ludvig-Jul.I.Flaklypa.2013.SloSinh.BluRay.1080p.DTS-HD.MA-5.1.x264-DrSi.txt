@@ -1,0 +1,36 @@
+General
+Filename.......: Solan.Og.Ludvig-Jul.I.Flaklypa.2013.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 16 min 33 s 632 ms
+Size...........: 9.64 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1078
+Aspect ratio...: 1.781:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 8.49 GiB (88%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 245 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 709 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 936 MiB (9%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

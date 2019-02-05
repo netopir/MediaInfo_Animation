@@ -1,0 +1,116 @@
+General
+Filename.......: Space.Chimps.2008.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 20 min 31 s 979 ms
+Size...........: 14.9 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 13.2 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 7.40 GiB (50%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 258 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 548 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.43 GiB (10%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 258 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 254 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.27 GiB (8%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 258 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 681 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.51 GiB (10%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 369 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 875 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.18 GiB (15%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: English
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Chapters.......:  menu

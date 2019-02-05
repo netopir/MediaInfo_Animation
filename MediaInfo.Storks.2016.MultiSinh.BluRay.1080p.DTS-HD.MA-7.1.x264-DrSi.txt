@@ -1,0 +1,156 @@
+General
+Filename.......: Storks.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 26 min 57 s 846 ms
+Size...........: 13.8 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.87 GiB (57%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 279 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 566 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.56 GiB (11%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 279 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 521 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.53 GiB (11%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 398 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 2 896 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.76 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........: SUP 
+
+Chapters.......:  menu

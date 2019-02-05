@@ -1,0 +1,101 @@
+General
+Filename.......: Sing.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1+TrueHD-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 47 min 53 s 814 ms
+Size...........: 22.8 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 11.5 GiB (50%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 346 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 303 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.74 GiB (8%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 346 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 311 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.74 GiB (8%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 494 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 3 910 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.95 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Audio
+Format.........: Dolby TrueHD with Dolby Atmos  
+Channels.......: 8 channels
+Bit rate.......: 4 888 kb/s
+kHz/bit........: 48.0 kHz / 
+Audio Size.....: 3.68 GiB (16%)
+Delay..........: 
+Language.......: English
+Text...........: TrueHD 7.1
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Chapters.......:  menu
