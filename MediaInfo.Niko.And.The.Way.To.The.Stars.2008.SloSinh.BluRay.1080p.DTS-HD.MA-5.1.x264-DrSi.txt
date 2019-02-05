@@ -1,0 +1,66 @@
+General
+Filename.......: Niko.And.The.Way.To.The.Stars.2008.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 20 min 45 s 760 ms
+Size...........: 12.5 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.61 GiB (69%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 777 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.13 GiB (17%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 190 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.24 GiB (10%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Chapters.......:  menu

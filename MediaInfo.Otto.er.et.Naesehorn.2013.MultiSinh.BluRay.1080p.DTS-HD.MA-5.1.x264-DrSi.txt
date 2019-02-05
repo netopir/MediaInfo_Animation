@@ -1,0 +1,75 @@
+General
+Filename.......: Otto.er.et.Naesehorn.2013.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 16 min 35 s 808 ms
+Size...........: 14.2 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.19 GiB (58%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 244 MiB (2%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 134 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.14 GiB (8%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 351 MiB (2%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 840 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.03 GiB (14%)
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 351 MiB (2%)
+Language.......: German
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 611 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.93 GiB (14%)
+Language.......: German
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Chapters.......:  menu

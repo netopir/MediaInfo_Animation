@@ -1,0 +1,49 @@
+General
+Filename.......: Niko.And.The.Way.To.The.Stars.2008.SloSinh.BluRay.1080p.DTS.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 20 min 45 s 728 ms
+Size...........: 6.28 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 5.54 GiB (88%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 111 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD2.0
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
