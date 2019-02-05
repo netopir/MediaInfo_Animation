@@ -1,0 +1,34 @@
+General
+Filename.......: The.Incredibles.2004.SloSinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 55 min 25 s 836 ms
+Size...........: 10.6 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 11.2 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.77 GiB (83%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 370 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: DTS-ES Matrix  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.22 GiB (12%)
+Delay..........: 
+Language.......: English
+Text...........: 

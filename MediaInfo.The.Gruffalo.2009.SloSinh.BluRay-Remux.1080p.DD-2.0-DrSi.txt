@@ -1,0 +1,24 @@
+General
+Filename.......: The.Gruffalo.2009.SloSinh.BluRay-Remux.1080p.DD-2.0-DrSi
+Container......: Matroska
+Duration.......: 28 min 24 s 745 ms
+Size...........: 5.98 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 29.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 5.82 GiB (97%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 39.0 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD-2.0

@@ -1,0 +1,141 @@
+General
+Filename.......: The.LEGO.Batman.Movie.2017.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1+TrueHD-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 44 min 30 s 134 ms
+Size...........: 21.4 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.41 GiB (44%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 335 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 567 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.60 GiB (12%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 335 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 534 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.58 GiB (12%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 335 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 3 831 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.80 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Audio
+Format.........: Dolby TrueHD with Dolby Atmos  
+Channels.......: 8 channels
+Bit rate.......: 3 940 kb/s
+kHz/bit........: 48.0 kHz / 
+Audio Size.....: 2.88 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: TrueHD 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........: SUP 
+
+Chapters.......:  menu

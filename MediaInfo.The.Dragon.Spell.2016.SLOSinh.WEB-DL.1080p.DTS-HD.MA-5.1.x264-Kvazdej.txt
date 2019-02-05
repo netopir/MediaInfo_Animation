@@ -1,0 +1,34 @@
+General
+Filename.......: The.Dragon.Spell.2016.SLOSinh.WEB-DL.1080p.DTS-HD.MA-5.1.x264-Kvazdej
+Container......: Matroska
+Duration.......: 1 h 26 min 25 s 366 ms
+Size...........: 4.66 GiB
+
+Video
+Codec..........: AVC High@L4 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1078
+Aspect ratio...: 1.781:1
+Bit rate.......: 5 126 kb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 3.09 GiB (66%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 277 MiB (6%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 147 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.30 GiB (28%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Chapters.......:  menu

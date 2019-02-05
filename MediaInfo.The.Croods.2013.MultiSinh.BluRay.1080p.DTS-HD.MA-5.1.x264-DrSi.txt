@@ -1,0 +1,161 @@
+General
+Filename.......: The.Croods.2013.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 38 min 36 s 960 ms
+Size...........: 13.6 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 316 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 542 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 316 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 542 MiB (4%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 451 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Indonesian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Malay
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Vietnamese
+Text...........:  
+
+Chapters.......:  menu

@@ -1,0 +1,24 @@
+General
+Filename.......: The.Gruffalos.Child.2011.SloSinh.BluRay.720p.DD-2.0.x264-Kvazdej
+Container......: Matroska
+Duration.......: 27 min 28 s 606 ms
+Size...........: 636 MiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1280x720
+Aspect ratio...: 1.778:1
+Bit rate.......: 3 043 kb/s
+Frame rate.....: 23.976 (23976/1000) FPS
+Video Size.....: 586 MiB (92%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 37.7 MiB (6%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
