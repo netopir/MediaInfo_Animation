@@ -1,0 +1,146 @@
+General
+Filename.......: Ice.Age.3.Dawn.of.the.Dinosaurs.2009.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 34 min 3 s 168 ms
+Size...........: 15.1 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 301 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 301 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 431 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Ukrainian
+Text...........:  
+
+Chapters.......:  menu

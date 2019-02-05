@@ -1,0 +1,91 @@
+General
+Filename.......: Inside.Out.2015.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 34 min 37 s 856 ms
+Size...........: 14.6 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 10.5 GiB (72%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 130 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 2.0
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 303 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 607 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.06 GiB (7%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 433 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 3 290 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.17 GiB (15%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Chapters.......:  menu

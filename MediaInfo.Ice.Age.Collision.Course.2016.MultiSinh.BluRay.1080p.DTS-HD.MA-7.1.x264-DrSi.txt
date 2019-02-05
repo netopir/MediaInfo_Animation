@@ -1,0 +1,211 @@
+General
+Filename.......: Ice.Age.Collision.Course.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 34 min 33 s 782 ms
+Size...........: 17.2 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.51 GiB (50%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 303 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 113 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.40 GiB (8%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 303 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 085 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.38 GiB (8%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 303 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 073 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.37 GiB (8%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 432 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 4 618 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 3.05 GiB (18%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Arabic
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hindi
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Ukrainian
+Text...........: SUP 
+
+Chapters.......:  menu
