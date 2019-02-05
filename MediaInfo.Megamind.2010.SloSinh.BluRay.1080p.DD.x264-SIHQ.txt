@@ -1,0 +1,24 @@
+General
+Filename.......: Megamind.2010.SloSinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 35 min 34 s 646 ms
+Size...........: 6.86 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 9 826 kb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.42 GiB (94%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 306 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 

@@ -1,0 +1,106 @@
+General
+Filename.......: Minions.2015.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 30 min 58 s 48 ms
+Size...........: 15.4 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.69 GiB (63%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 416 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 692 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.35 GiB (15%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 416 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 986 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.53 GiB (16%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........:  
+
+Chapters.......:  menu

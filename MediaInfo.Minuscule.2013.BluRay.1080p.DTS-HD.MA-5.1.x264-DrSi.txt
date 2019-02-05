@@ -1,0 +1,36 @@
+General
+Filename.......: Minuscule.2013.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 28 min 27 s 302 ms
+Size...........: 10.8 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 405 MiB (4%)
+Delay..........: 
+Language.......: French
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: French
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

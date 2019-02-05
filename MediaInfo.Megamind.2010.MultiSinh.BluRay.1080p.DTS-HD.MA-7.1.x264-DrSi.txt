@@ -1,0 +1,136 @@
+General
+Filename.......: Megamind.2010.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 35 min 34 s 710 ms
+Size...........: 14.4 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 13.1 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.77 GiB (61%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 306 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 508 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.01 GiB (7%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 306 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 505 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.00 GiB (7%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 438 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 3 748 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.50 GiB (17%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Ukrainian
+Text...........: SUP 
+
+Chapters.......:  menu

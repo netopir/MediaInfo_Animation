@@ -1,0 +1,72 @@
+General
+Filename.......: Mikes.New.Car.2002.SloSinh.BluRay.1080p.DTS-HD.MA-2.0.x264-DrSi
+Container......: Matroska
+Duration.......: 3 min 48 s 979 ms
+Size...........: 445 MiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1360x1024
+Aspect ratio...: 1.328:1
+Bit rate.......: 11.7 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 319 MiB (72%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 5.22 MiB (1%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 2 channels
+Bit rate.......: 1 590 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 43.2 MiB (10%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 2.0
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 17.5 MiB (4%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 197 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 59.9 MiB (13%)
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Italian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP 
+
+Chapters.......:  menu

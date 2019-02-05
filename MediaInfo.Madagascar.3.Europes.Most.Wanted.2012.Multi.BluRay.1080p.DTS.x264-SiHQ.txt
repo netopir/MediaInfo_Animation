@@ -1,0 +1,114 @@
+General
+Filename.......: Madagascar.3.Europes.Most.Wanted.2012.Multi.BluRay.1080p.DTS.x264-SiHQ
+Container......: Matroska
+Duration.......: 1 h 33 min 24 s 564 ms
+Size...........: 10.3 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.35 GiB (62%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 299 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 504 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 299 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 504 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 299 MiB (3%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 504 MiB (5%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 428 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 510 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1 009 MiB (10%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: English
+Text...........:  
