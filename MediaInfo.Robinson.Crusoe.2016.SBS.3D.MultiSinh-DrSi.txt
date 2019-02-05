@@ -1,0 +1,46 @@
+General
+Filename.......: Robinson.Crusoe.2016.SBS.3D.MultiSinh-DrSi
+Container......: Matroska
+Duration.......: 1 h 30 min 27 s 488 ms
+Size...........: 10.2 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 14.8 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.16 GiB (90%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 290 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 290 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 290 MiB (3%)
+Delay..........: 
+Language.......: Serbian
+Text...........: 
+
+Chapters.......:  menu

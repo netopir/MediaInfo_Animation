@@ -1,0 +1,44 @@
+General
+Filename.......: Rango.Extended.2011.SloSinh.BluRay.1080p.DTS.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 51 min 50 s 80 ms
+Size...........: 9.98 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 10.2 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.75 GiB (78%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 512 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.18 GiB (12%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 358 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD

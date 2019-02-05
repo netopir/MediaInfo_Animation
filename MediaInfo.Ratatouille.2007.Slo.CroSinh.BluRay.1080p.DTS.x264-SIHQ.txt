@@ -1,0 +1,84 @@
+General
+Filename.......: Ratatouille.2007.Slo.CroSinh.BluRay.1080p.DTS.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 50 min 33 s 408 ms
+Size...........: 12.7 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.51 GiB (59%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 506 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 510 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.17 GiB (9%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 506 MiB (4%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 510 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.17 GiB (9%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 506 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 510 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.17 GiB (9%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
