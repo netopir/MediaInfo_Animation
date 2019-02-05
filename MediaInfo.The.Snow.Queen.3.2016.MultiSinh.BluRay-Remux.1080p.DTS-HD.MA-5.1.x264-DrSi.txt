@@ -1,0 +1,93 @@
+General
+Filename.......: The.Snow.Queen.3.2016.MultiSinh.BluRay-Remux.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 29 min 10 s 387 ms
+Size...........: 15.3 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 13.5 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.43 GiB (55%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 285 MiB (2%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 272 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.41 GiB (9%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 285 MiB (2%)
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 233 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.39 GiB (9%)
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 285 MiB (2%)
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 277 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.42 GiB (9%)
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 408 MiB (3%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 222 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.38 GiB (9%)
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP 
+
+Chapters.......:  menu

@@ -1,0 +1,36 @@
+General
+Filename.......: The.SpongeBob.Movie-Sponge.Out.of.Water.2015.SloSinh.BluRay.1080p.DTS-HD.MA-2.0.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 32 min 34 s 466 ms
+Size...........: 10.9 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 10.3 GiB (95%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 127 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 2 channels
+Bit rate.......: 729 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 483 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

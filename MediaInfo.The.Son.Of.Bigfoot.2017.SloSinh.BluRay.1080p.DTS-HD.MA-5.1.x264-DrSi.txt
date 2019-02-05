@@ -1,0 +1,86 @@
+General
+Filename.......: The.Son.Of.Bigfoot.2017.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 32 min 15 s 238 ms
+Size...........: 14.4 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 10.3 GiB (71%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 296 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 633 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.70 GiB (12%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 422 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 583 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.66 GiB (12%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Dutch
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Chapters.......:  menu
