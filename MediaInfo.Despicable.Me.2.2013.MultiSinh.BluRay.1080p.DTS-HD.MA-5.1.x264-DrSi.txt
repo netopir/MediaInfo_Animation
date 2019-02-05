@@ -1,0 +1,146 @@
+General
+Filename.......: Despicable.Me.2.2013.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 38 min 0 s 128 ms
+Size...........: 17.2 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 449 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 449 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 449 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........:  
+
+Chapters.......:  menu

@@ -1,0 +1,56 @@
+General
+Filename.......: Der.7bte.Zwerg.2014.Slo.CroSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 27 min 52 s 309 ms
+Size...........: 12.1 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.35 GiB (78%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 279 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 754 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.07 GiB (9%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 279 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 780 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.08 GiB (9%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

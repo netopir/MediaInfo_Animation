@@ -1,0 +1,95 @@
+General
+Filename.......: Despicable.Me.3.2017.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 29 min 41 s 174 ms
+Size...........: 14.2 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.11 GiB (57%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 287 MiB (2%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 290 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.43 GiB (10%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 287 MiB (2%)
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 289 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.43 GiB (10%)
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 410 MiB (3%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS X / MA / Core 
+Channels.......: Object Based / 8 channels / 6 channels
+Bit rate.......: 3 595 kb/s / 3 595 kb/s / 1 509 kb/s
+kHz/bit........:  / 48.0 kHz / 48.0 kHz /  / 24 bits / 24 bits
+Audio Size.....: 2.25 GiB (16%)
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Chapters.......:  menu
