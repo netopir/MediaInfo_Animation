@@ -1,0 +1,46 @@
+General
+Filename.......: Zootopia.2016.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 48 min 32 s 423 ms
+Size...........: 11.6 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.82 GiB (85%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 149 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 2.0
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 348 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 653 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.25 GiB (11%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Chapters.......:  menu

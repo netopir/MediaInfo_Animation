@@ -1,0 +1,131 @@
+General
+Filename.......: Winnie.the.Pooh.2011.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 3 min 4 s 150 ms
+Size...........: 12.3 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.01 GiB (57%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 202 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 453 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.52 GiB (12%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 202 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 422 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.51 GiB (12%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 289 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 472 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.53 GiB (12%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........: SUP 
+
+Chapters.......:  menu

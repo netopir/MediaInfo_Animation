@@ -1,0 +1,101 @@
+General
+Filename.......: Wreck.It.Ralph.2012.MultiSinh.BluRay.1080p.DTS.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 41 min 13 s 856 ms
+Size...........: 11.4 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 11.6 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.99 GiB (70%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 324 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 546 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 324 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 546 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 463 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.07 GiB (9%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Chapters.......:  menu

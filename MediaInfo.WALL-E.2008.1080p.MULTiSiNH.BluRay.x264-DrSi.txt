@@ -1,0 +1,44 @@
+General
+Filename.......: WALL-E.2008.1080p.MULTiSiNH.BluRay.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 38 min 16 s 928 ms
+Size...........: 8.18 GiB
+
+Video
+Codec..........:  High@L4 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 10 000 kb/s
+Frame rate.....: 23.976 FPS
+Video Size.....: 6.70 GiB (82%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 450 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: Slovenski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 450 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: Hrvatski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 450 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: English

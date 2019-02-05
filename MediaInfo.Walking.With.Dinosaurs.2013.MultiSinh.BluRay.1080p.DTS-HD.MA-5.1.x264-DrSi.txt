@@ -1,0 +1,136 @@
+General
+Filename.......: Walking.With.Dinosaurs.2013.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 27 min 30 s 912 ms
+Size...........: 13.8 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x802
+Aspect ratio...: 2.394:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 280 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 280 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 401 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Ukrainian
+Text...........:  
+
+Chapters.......:  menu
