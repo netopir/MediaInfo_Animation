@@ -1,0 +1,54 @@
+General
+Filename.......: Animals.United.2010.Slo.Cro.EngSinh.BluRay.1080p.DTS.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 33 min 13 s 630 ms
+Size...........: 8.74 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 10 000 kb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.33 GiB (72%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 427 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1 006 MiB (11%)
+Delay..........: 
+Language.......: Dutch
+Text...........: DTS

@@ -1,0 +1,101 @@
+General
+Filename.......: Asterix.The.Mansions.of.the.Gods.2014.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 34 s 624 ms
+Size...........: 15.3 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.11 GiB (60%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 274 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 587 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 971 MiB (6%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 274 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 628 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 996 MiB (6%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 274 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 661 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1 017 MiB (7%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 391 MiB (3%)
+Delay..........: 
+Language.......: French
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 414 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.04 GiB (13%)
+Delay..........: 
+Language.......: French
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........:  
+
+Chapters.......:  menu

@@ -1,0 +1,206 @@
+General
+Filename.......: The.Road.Chip.2015.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 32 min 0 s 214 ms
+Size...........: 21.0 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.80 GiB (47%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 295 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 492 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.24 GiB (11%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 295 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 523 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.26 GiB (11%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 295 MiB (1%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 483 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.24 GiB (11%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 421 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / ES Matrix / Core 
+Channels.......: 8 channels / 7 channels / 6 channels
+Bit rate.......: 4 569 kb/s / 1 509 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.94 GiB (14%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Indonesian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Korean
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Malay
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Vietnamese
+Text...........: SUP 
+
+Chapters.......:  menu
