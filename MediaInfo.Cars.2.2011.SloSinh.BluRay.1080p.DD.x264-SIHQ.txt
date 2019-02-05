@@ -1,0 +1,49 @@
+General
+Filename.......: Cars.2.2011.SloSinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 47 min 1 s 536 ms
+Size...........: 8.94 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.33 GiB (82%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 490 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 490 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 490 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
