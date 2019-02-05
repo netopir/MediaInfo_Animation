@@ -1,0 +1,44 @@
+General
+Filename.......: Tangled.2010.Slo.Cro.Sinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 40 min 57 s 302 ms
+Size...........: 8.25 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 9 303 kb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.39 GiB (77%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 323 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 323 MiB (4%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.06 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
