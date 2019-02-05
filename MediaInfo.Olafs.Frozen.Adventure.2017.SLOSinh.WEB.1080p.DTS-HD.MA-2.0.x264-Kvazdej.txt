@@ -1,0 +1,34 @@
+General
+Filename.......: Olafs.Frozen.Adventure.2017.SLOSinh.WEB.1080p.DTS-HD.MA-2.0.x264-Kvazdej
+Container......: Matroska
+Duration.......: 21 min 49 s 209 ms
+Size...........: 2.60 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 2.43 GiB (93%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 29.9 MiB (1%)
+Language.......: Slovenian
+Text...........: DD 2.0
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 2 channels
+Bit rate.......: 941 kb/s / 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 147 MiB (6%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 2.0
+
+Chapters.......:  menu
