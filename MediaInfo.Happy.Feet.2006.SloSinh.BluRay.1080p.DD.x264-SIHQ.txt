@@ -1,0 +1,44 @@
+General
+Filename.......: Happy.Feet.2006.SloSinh.BluRay.1080p.DD.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 48 min 41 s 728 ms
+Size...........: 8.58 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x800
+Aspect ratio...: 2.400:1
+Bit rate.......: 10.5 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.78 GiB (91%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 149 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 348 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 149 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 

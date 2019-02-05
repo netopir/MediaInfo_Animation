@@ -1,0 +1,166 @@
+General
+Filename.......: How.to.Train.Your.Dragon.2010.MultiSinh.BluRay.Remux.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 37 min 54 s 59 ms
+Size...........: 21.4 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 314 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 538 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 314 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 538 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 448 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 8 channels / 6 channels
+Bit rate.......: Unknown / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........:  
+
+Chapters.......:  menu

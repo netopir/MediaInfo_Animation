@@ -1,0 +1,96 @@
+General
+Filename.......: Hotel.Transylvania.2012.REPACK.MultiSinh.BluRay.1080p.DTS.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 31 min 31 s 520 ms
+Size...........: 9.50 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.24 GiB (66%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 126 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 2.0 - DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 251 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 5.1 - DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 494 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 5.1 - DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 126 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 2.0 - DD
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 251 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 5.1 - DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 755 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 494 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: 5.1 - DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 419 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: 5.1 - DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 988 MiB (10%)
+Delay..........: 
+Language.......: English
+Text...........: 5.1 - DTS
+
+Chapters.......:  menu

@@ -1,0 +1,131 @@
+General
+Filename.......: Hotel.Transylvania.3.Summer.Vacation.2018.MultiSinh.1080p.REMUX.AVC.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 37 min 23 s 371 ms
+Size...........: 28.0 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 24.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 16.9 GiB (60%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 446 MiB (2%)
+Delay..........: 32 ms
+Language.......: Slovenian
+Text...........: AC-3 5.1 SLO
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 840 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.56 GiB (9%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1 SLO
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 446 MiB (2%)
+Delay..........: 32 ms
+Language.......: Croatian
+Text...........: AC-3 5.1 HRV
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 840 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.57 GiB (9%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1 HRV
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 446 MiB (2%)
+Delay..........: 32 ms
+Language.......: Serbian
+Text...........: AC-3 5.1 SRP
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 840 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.57 GiB (9%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1 SRP
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 446 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: AC-3 5.1 ENG
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 278 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.55 GiB (6%)
+Delay..........: 17 ms
+Language.......: English
+Text...........: DTS-HD MA 5.1 ENG
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........:  
+
+Chapters.......:  menu
