@@ -1,0 +1,143 @@
+General
+Filename.......: Ferdinand.2017.MultiSinh.1080p.REMUX.AVC.DTS-HD.MA.5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 48 min 5 s 622 ms
+Size...........: 30.1 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 25.8 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 19.5 GiB (65%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 346 MiB (1%)
+Language.......: Slovenian
+Text...........: AC-3 5.1 SLO
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 449 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.85 GiB (6%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1 SLO
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 346 MiB (1%)
+Language.......: Croatian
+Text...........: AC-3 5.1 CRO
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 426 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.83 GiB (6%)
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1 CRO
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 346 MiB (1%)
+Language.......: Serbian
+Text...........: AC-3 5.1 SER
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 414 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.82 GiB (6%)
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1 SER
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 495 MiB (2%)
+Language.......: English
+Text...........: AC-3 5.1 ENG
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 8 channels / 6 channels
+Bit rate.......: 4 629 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 3.49 GiB (12%)
+Language.......: English
+Text...........: DTS-HD MA 5.1 ENG
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Vietnamese
+Text...........: SUP 
+
+Chapters.......:  menu

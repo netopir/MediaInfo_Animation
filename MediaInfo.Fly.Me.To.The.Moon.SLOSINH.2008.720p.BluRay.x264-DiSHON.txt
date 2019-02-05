@@ -1,0 +1,49 @@
+General
+Filename.......: Fly.Me.To.The.Moon.2008.720p.BluRay.x264.SLOSINH-DiSHON
+Container......: Matroska
+Duration.......: 1 h 20 min 53 s 184 ms
+Size...........: 4.13 GiB
+
+Video
+Codec..........:  Main@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1280x720
+Aspect ratio...: 1.778:1
+Bit rate.......: 6 410 kb/s
+Frame rate.....: 25.000 FPS
+Video Size.....: 3.54 GiB (86%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (6%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 259 MiB (6%)
+Delay..........: 
+Language.......: English
+Text...........: 
+
+Subtitles
+Format.........: SSA
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: SSA
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: SSA
+Language.......: Croatian
+Text...........:  

@@ -1,0 +1,72 @@
+General
+Filename.......: Frozen.Fever.2015.SLOSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 7 min 57 s 728 ms
+Size...........: 1.06 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x856
+Aspect ratio...: 2.243:1
+Bit rate.......: 13.8 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 783 MiB (72%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 2 channels
+Bit rate.......: 224 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 12.6 MiB (1%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 2 channels
+Bit rate.......: 881 kb/s / 255 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 49.7 MiB (5%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 2.0
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 36.4 MiB (3%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 516 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 200 MiB (18%)
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: English
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Chapters.......:  menu
