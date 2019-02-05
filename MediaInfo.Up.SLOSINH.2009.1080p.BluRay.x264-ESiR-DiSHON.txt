@@ -1,0 +1,89 @@
+General
+Filename.......: Up.SLOSINH.2009.1080p.BluRay.DTS.x264-ESiR-DiSHON
+Container......: Matroska
+Duration.......: 1 h 36 min 7 s 597 ms
+Size...........: 7.73 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 9 295 kb/s
+Frame rate.....: 23.976 FPS
+Video Size.....: 6.08 GiB (79%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 440 MiB (6%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: 
+
+Audio
+Format.........: DTS-ES Matrix  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.01 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: 
+
+Audio
+Format.........: Vorbis  
+Channels.......: 2 channels
+Bit rate.......: 80.0 kb/s
+kHz/bit........: 48.0 kHz / 
+Audio Size.....: 55.0 MiB (1%)
+Delay..........: 
+Language.......: 
+Text...........: Commentary
+
+Subtitles
+Format.........: ASS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Norwegian
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Finnish
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Spanish
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: French
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Hungarian
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Polish
+Text...........:  
+
+Subtitles
+Format.........: ASS
+Language.......: Romanian
+Text...........:  

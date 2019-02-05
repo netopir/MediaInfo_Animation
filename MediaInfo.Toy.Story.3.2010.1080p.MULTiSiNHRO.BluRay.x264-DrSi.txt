@@ -1,0 +1,44 @@
+General
+Filename.......: Toy.Story.3.2010.1080p.MULTiSiNHRO.BluRay.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 43 min 3 s 10 ms
+Size...........: 10.0 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 12.0 Mb/s
+Frame rate.....: 23.976 FPS
+Video Size.....: 8.43 GiB (84%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 472 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: Slovenski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 472 MiB (5%)
+Delay..........: 
+Language.......: Serbian
+Text...........: Srpski
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 472 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: Hrvatski

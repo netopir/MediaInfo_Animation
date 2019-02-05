@@ -1,0 +1,201 @@
+General
+Filename.......: Trolls.2016.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 32 min 26 s 998 ms
+Size...........: 17.1 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 13.1 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.48 GiB (50%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 296 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 236 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.44 GiB (8%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 296 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 225 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.44 GiB (8%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 296 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 240 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.45 GiB (8%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 423 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit rate.......: 4 467 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.88 GiB (17%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Arabic
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hindi
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Chapters.......:  menu
