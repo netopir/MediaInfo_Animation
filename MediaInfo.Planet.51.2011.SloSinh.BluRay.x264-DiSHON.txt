@@ -1,0 +1,66 @@
+General
+Filename.......: Planet.51.2011.SloSinh.BluRay.x264-DiSHON
+Container......: Matroska
+Duration.......: 1 h 30 min 40 s 435 ms
+Size...........: 4.91 GiB
+
+Video
+Codec..........:  High@L3.1 8 bits Header stripping
+Type...........: Progressive
+Resolution.....: 1280x544
+Aspect ratio...: 2.353:1
+Bit rate.......: 5 187 kb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 3.29 GiB (67%)
+
+Audio
+Format.........: DTS  Header stripping
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 979 MiB (19%)
+Delay..........: 67 ms
+Language.......: English
+Text...........: English @ DTS 5.1 @ 1536 kbps
+
+Audio
+Format.........: Dolby Digital  Header stripping
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 291 MiB (6%)
+Delay..........: 3 ms
+Language.......: Slovenian
+Text...........: Slovenian @ AC3 5.1 @ 448 kbps
+
+Audio
+Format.........: Dolby Digital  Header stripping
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 291 MiB (6%)
+Delay..........: 3 ms
+Language.......: Croatian
+Text...........: Croatian @ AC3 5.1 @ 448 kbps
+
+Subtitles
+Format.........: UTF-8
+Language.......: English
+Text...........: English 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: Slovenian 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: Croatian 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: Serbian 
+
+Chapters.......:  menu

@@ -1,0 +1,181 @@
+General
+Filename.......: Penguins.of.Madagascar.2014.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 31 min 49 s 536 ms
+Size...........: 16.7 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 9.81 GiB (59%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 294 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 715 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.10 GiB (7%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 294 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 699 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.09 GiB (7%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 294 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 711 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.10 GiB (7%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 420 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 461 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.22 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Japanese
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Estonian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Latvian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Lithuanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Ukrainian
+Text...........:  
+
+Chapters.......:  menu

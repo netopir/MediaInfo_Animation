@@ -1,0 +1,151 @@
+General
+Filename.......: Planes.Fire.and.Rescue.2014.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 23 min 38 s 528 ms
+Size...........: 12.8 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.57 GiB (59%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 2 channels
+Bit rate.......: 192 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 115 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 2.0
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 2 channels
+Bit rate.......: 768 kb/s / 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 467 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 2.0
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 268 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 048 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.22 GiB (9%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 383 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 8 channels / 6 channels
+Bit rate.......: 4 664 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.72 GiB (21%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Korean
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Indonesian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Malay
+Text...........: SUP 
+
+Chapters.......:  menu

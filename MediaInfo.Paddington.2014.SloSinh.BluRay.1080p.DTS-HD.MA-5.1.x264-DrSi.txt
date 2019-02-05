@@ -1,0 +1,36 @@
+General
+Filename.......: Paddington.2014.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 35 min 12 s 707 ms
+Size...........: 10.0 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.61 GiB (86%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 305 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 688 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.12 GiB (11%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu
