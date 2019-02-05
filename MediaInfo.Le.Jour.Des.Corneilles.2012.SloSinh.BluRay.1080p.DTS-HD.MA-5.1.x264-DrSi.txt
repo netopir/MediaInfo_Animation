@@ -1,0 +1,72 @@
+General
+Filename.......: Le.Jour.Des.Corneilles.2012.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 34 min 42 s 614 ms
+Size...........: 12.3 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x814
+Aspect ratio...: 2.359:1
+Bit rate.......: 13.1 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.63 GiB (70%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 303 MiB (2%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 281 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.51 GiB (12%)
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 432 MiB (3%)
+Language.......: French
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 100 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.38 GiB (11%)
+Language.......: French
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: English
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: French
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Chapters.......:  menu

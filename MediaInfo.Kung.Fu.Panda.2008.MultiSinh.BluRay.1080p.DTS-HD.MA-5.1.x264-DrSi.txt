@@ -1,0 +1,186 @@
+General
+Filename.......: Kung.Fu.Panda.2008.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 32 min 9 s 504 ms
+Size...........: 13.7 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 13.1 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 8.45 GiB (62%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 253 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 1 411.2 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 945 MiB (7%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 253 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 1 411.2 kb/s / 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 937 MiB (7%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 422 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 3 671 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.36 GiB (17%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: Danish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Dutch
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Finnish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Italian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Norwegian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Swedish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Turkish
+Text...........: SUP 
+
+Chapters.......:  menu

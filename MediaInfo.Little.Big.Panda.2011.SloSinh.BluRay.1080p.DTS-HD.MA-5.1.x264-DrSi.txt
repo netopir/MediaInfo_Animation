@@ -1,0 +1,36 @@
+General
+Filename.......: Little.Big.Panda.2011.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 27 min 26 s 880 ms
+Size...........: 11.1 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 9.72 GiB (88%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 280 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 1 762 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.08 GiB (10%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA
+
+Chapters.......:  menu

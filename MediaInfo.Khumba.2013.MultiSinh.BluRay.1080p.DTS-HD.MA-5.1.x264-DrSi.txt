@@ -1,0 +1,106 @@
+General
+Filename.......: Khumba.2013.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 18 s 155 ms
+Size...........: 11.6 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x798
+Aspect ratio...: 2.406:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 273 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 469 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 273 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 469 MiB (4%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 273 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 469 MiB (4%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 390 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........:  
+
+Chapters.......:  menu
