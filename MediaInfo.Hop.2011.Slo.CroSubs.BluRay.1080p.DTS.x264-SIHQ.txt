@@ -1,0 +1,69 @@
+General
+Filename.......: Hop.2011.Slo.CroSubs.BluRay.1080p.DTS.x264-SIHQ
+Container......: Matroska
+Duration.......: 1 h 35 min 0 s 736 ms
+Size...........: 9.36 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 10.5 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 6.81 GiB (73%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 435 MiB (5%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 1.00 GiB (11%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 435 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 522 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Subtitles
+Format.........: SSA
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: SSA
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: SSA
+Language.......: English
+Text...........:  
