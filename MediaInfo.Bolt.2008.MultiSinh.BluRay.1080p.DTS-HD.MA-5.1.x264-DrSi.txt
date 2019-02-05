@@ -1,0 +1,125 @@
+General
+Filename.......: Bolt.2008.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 37 min 16 s 657 ms
+Size...........: 17.9 GiB
+
+Video
+Codec..........: AVC High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 10.7 GiB (60%)
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 441 MiB (2%)
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 436 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.64 GiB (9%)
+Language.......: Slovenian
+Text...........: DTS.HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 441 MiB (2%)
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS MA / Core 
+Channels.......: 6 channels
+Bit rate.......: 2 426 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.63 GiB (9%)
+Language.......: Croatian
+Text...........: DTS.HD MA 5.1
+
+Audio
+Format.........: AC-3  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 441 MiB (2%)
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS MA / ES Matrix / Core 
+Channels.......: 7 channels / 7 channels / 6 channels
+Bit rate.......: 3 840 kb/s / 1 509 kb/s / 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.61 GiB (15%)
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH 
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Portuguese
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Hebrew
+Text...........: SUP 
+
+Chapters.......:  menu
