@@ -1,0 +1,94 @@
+General
+Filename.......: The.Lorax.2012.MultiSinh.BluRay.1080p.DTS.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 26 min 18 s 944 ms
+Size...........: 8.84 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1040
+Aspect ratio...: 1.846:1
+Bit rate.......: 10.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 5.90 GiB (67%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 277 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 474 MiB (5%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 277 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 474 MiB (5%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 395 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 932 MiB (10%)
+Delay..........: 
+Language.......: English
+Text...........: DTS
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  

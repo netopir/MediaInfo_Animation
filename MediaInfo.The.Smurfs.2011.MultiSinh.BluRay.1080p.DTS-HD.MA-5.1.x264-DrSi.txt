@@ -1,0 +1,151 @@
+General
+Filename.......: The.Smurfs.2011.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 43 min 50 s 859 ms
+Size...........: 17.9 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 475 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 570 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 475 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 570 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 475 MiB (3%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 570 MiB (3%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 475 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Hindi
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........:  
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........:  
+
+Chapters.......:  menu
