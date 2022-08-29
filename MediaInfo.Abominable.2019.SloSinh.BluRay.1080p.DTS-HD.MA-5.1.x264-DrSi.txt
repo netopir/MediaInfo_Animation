@@ -1,0 +1,143 @@
+General
+Filename.......: Abominable.2019.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 37 min 12 s 854 ms
+Size...........: 16.6 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1038
+Aspect ratio...: 1.850:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 139848
+Video Size.....: 10.4 GiB (62%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 445 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 633 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.47 GiB (15%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 312 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby TrueHD with Dolby Atmos  
+Channels.......: 8 channels
+Bit rate.......: 4 374 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 1 200.000 FPS (40 SPF)
+Audio Size.....: 2.97 GiB (18%)
+Delay..........: 
+Language.......: English
+Text...........: TrueHD Atmos 7.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 865
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 1994
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 3094
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP
+Element count..: 2157
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 1994
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........: SUP
+Element count..: 1992
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP
+Element count..: 1994
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP
+Element count..: 1990
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP
+Element count..: 1990
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

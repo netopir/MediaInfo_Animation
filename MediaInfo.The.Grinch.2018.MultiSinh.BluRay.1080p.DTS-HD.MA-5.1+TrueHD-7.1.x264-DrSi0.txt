@@ -1,0 +1,111 @@
+General
+Filename.......: The.Grinch.2018.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1+TrueHD-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 49 s 728 ms
+Size...........: 14.4 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Video Size.....: 7.76 GiB (54%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 393 MiB (3%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 4 139 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.48 GiB (17%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 393 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+
+Audio
+Format.........: Dolby Digital Plus Blu-ray Disc 
+Channels.......: 8 channels
+Bit rate.......: 768 kb/s
+kHz/bit........: 48.0 kHz / 
+Audio Size.....: 471 MiB (3%)
+Delay..........: 
+Language.......: Croatian
+Text...........: E-AC-3 7.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 275 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: Dolby TrueHD with Dolby Atmos  
+Channels.......: 8 channels
+Bit rate.......: 4 289 kb/s
+kHz/bit........: 48.0 kHz / 
+Audio Size.....: 2.57 GiB (18%)
+Delay..........: 
+Language.......: English
+Text...........: TrueHD Atmos 7.1
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP 
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT 
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP 
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP 
+
+Chapters.......:  menu

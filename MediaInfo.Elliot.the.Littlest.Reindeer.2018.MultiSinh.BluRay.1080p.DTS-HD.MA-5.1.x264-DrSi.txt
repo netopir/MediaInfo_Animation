@@ -1,0 +1,121 @@
+General
+Filename.......: Elliot.the.Littlest.Reindeer.2018.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 29 min 48 s 512 ms
+Size...........: 16.6 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x816
+Aspect ratio...: 2.353:1
+Bit rate.......: 13.1 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 129195
+Video Size.....: 8.22 GiB (49%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 287 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 4 217 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.64 GiB (16%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 287 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 790 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.37 GiB (14%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 411 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 851 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.42 GiB (15%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 878
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 1756
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP
+Element count..: 2160
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

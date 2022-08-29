@@ -1,0 +1,147 @@
+General
+Filename.......: Spies.in.Disguise.2019.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 41 min 51 s 72 ms
+Size...........: 16.2 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 146519
+Video Size.....: 9.21 GiB (57%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 326 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 4 083 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.90 GiB (18%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 466 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit Depth......: 24 bits
+Bit rate.......: 4 541 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 3.23 GiB (20%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1005
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2010
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT
+Element count..: 1434
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP
+Element count..: 2868
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: SRT
+Element count..: 1447
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP
+Element count..: 2894
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 3822
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP
+Element count..: 2722
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 2926
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

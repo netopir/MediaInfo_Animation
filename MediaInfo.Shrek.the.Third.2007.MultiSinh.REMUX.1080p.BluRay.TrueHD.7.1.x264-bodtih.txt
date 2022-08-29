@@ -1,0 +1,96 @@
+General
+Filename.......: Shrek.the.Third.2007.MultiSinh.REMUX.1080p.BluRay.TrueHD.7.1.x264-bodtih
+Container......: Matroska
+Duration.......: 1 h 32 min 47 s 840 ms
+Size...........: 24.2 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 32.2 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 133494
+Video Size.....: 20.9 GiB (86%)
+
+Audio
+Format.........: Dolby TrueHD  
+Channels.......: 8 channels
+Bit Depth......: 
+Bit rate.......: 3 303 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 1 200.000 FPS (40 SPF)
+Audio Size.....: 2.14 GiB (9%)
+Delay..........: 
+Language.......: English
+Text...........: Dolby TrueHD 7.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 425 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 425 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 2 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 297 MiB (1%)
+Delay..........: 24 ms
+Language.......: Slovenian
+Text...........: Dolby Digital 2.0
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: 
+Element count..: 2316
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: 
+Element count..: 2036
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: 
+Element count..: 995
+Default........: No
+Forced.........: No

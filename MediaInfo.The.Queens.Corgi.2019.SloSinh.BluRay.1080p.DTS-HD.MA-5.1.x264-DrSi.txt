@@ -1,0 +1,79 @@
+General
+Filename.......: The.Queens.Corgi.2019.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 17 s 88 ms
+Size...........: 14.2 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Frame count....: 122809
+Video Size.....: 9.48 GiB (67%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 272 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 4 252 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.52 GiB (18%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 390 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 659 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 1.58 GiB (11%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Italian
+Text...........: SUP
+Element count..: 2186
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

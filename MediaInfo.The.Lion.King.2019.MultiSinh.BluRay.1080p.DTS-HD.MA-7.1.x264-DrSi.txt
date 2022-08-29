@@ -1,0 +1,143 @@
+General
+Filename.......: The.Lion.King.2019.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 58 min 15 s 360 ms
+Size...........: 25.4 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 170118
+Video Size.....: 13.1 GiB (52%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 379 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 4 185 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 3.46 GiB (14%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 379 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 3 940 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 3.25 GiB (13%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 541 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit Depth......: 24 bits
+Bit rate.......: 5 091 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 4.21 GiB (17%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 937
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 1874
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 3420
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP
+Element count..: 2850
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Italian
+Text...........: SUP
+Element count..: 2716
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

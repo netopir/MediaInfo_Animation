@@ -1,0 +1,219 @@
+General
+Filename.......: Spider-Man.Into.the.Spider-Verse.2018.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 56 min 50 s 16 ms
+Size...........: 23.4 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 168072
+Video Size.....: 10.6 GiB (45%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 374 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 788 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 3.09 GiB (13%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 374 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 804 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 3.10 GiB (13%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 374 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 622 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.96 GiB (13%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 535 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 335 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 1.91 GiB (8%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1156
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2310
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP
+Element count..: 2878
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP
+Element count..: 2872
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 2748
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP - SDH
+Element count..: 3720
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 2874
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP
+Element count..: 2762
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP
+Element count..: 2757
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Greek
+Text...........: SUP
+Element count..: 2832
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Icelandic
+Text...........: SUP
+Element count..: 2671
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovak
+Text...........: SUP
+Element count..: 2817
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

@@ -1,0 +1,110 @@
+General
+Filename.......: Shrek.Forever.After.2010.MultiSinh.REMUX.1080p.BluRay.TrueHD.7.1.x264-bodtih
+Container......: Matroska
+Duration.......: 1 h 33 min 10 s 752 ms
+Size...........: 23.9 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 31.0 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 134037
+Video Size.....: 20.2 GiB (84%)
+
+Audio
+Format.........: Dolby TrueHD  
+Channels.......: 8 channels
+Bit Depth......: 
+Bit rate.......: 3 079 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 1 200.000 FPS (40 SPF)
+Audio Size.....: 2.00 GiB (8%)
+Delay..........: 
+Language.......: English
+Text...........: Dolby TrueHD 7.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 427 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 427 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 427 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 427 MiB (2%)
+Delay..........: 
+Language.......: Serbian
+Text...........: Dolby Digital 5.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: 
+Element count..: 2067
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: 
+Element count..: 1042
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: 
+Element count..: 1041
+Default........: No
+Forced.........: No

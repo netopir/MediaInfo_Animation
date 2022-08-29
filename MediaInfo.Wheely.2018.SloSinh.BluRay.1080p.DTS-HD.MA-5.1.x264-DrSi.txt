@@ -1,0 +1,61 @@
+General
+Filename.......: Wheely.2018.SloSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 30 min 13 s 84 ms
+Size...........: 14.7 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1080
+Aspect ratio...: 1.778:1
+Bit rate.......: 15.9 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 10.0 GiB (68%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 384 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 248 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 4 194 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.64 GiB (18%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 412 MiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 2 172 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 1.36 GiB (9%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Subtitles
+Format.........: PGS
+Language.......: German
+Text...........: SUP 
+
+Chapters.......:  menu

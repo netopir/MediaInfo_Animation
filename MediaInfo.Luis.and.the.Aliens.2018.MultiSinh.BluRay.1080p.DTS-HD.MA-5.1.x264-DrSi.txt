@@ -1,0 +1,76 @@
+General
+Filename.......: Luis.and.the.Aliens.2018.MultiSinh.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 25 min 17 s 206 ms
+Size...........: 17.2 GiB
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 24.000 FPS
+Video Size.....: 9.09 GiB (53%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 273 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 4 235 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.52 GiB (15%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 390 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 853 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.29 GiB (13%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+Audio Size.....: 390 MiB (2%)
+Delay..........: 
+Language.......: German
+Text...........: DD 5.1
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit rate.......: 3 843 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+Audio Size.....: 2.29 GiB (13%)
+Delay..........: 
+Language.......: German
+Text...........: DTS-HD MA 5.1
+
+Chapters.......:  menu

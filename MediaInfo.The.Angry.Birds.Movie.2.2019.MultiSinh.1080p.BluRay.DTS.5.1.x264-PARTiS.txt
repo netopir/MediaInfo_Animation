@@ -1,0 +1,156 @@
+General
+Filename.......: The.Angry.Birds.Movie.2.2019.MultiSinh.1080p.BluRay.DTS.5.1.x264-PARTiS
+Container......: Matroska
+Duration.......: 1 h 36 min 47 s 840 ms
+Size...........: 11.5 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1038
+Aspect ratio...: 1.850:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 139248
+Video Size.....: 8.71 GiB (75%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 443 MiB (4%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: AC-3 5.1 SLO
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 443 MiB (4%)
+Delay..........: 
+Language.......: Croatian
+Text...........: AC-3 5.1 CRO
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 443 MiB (4%)
+Delay..........: 
+Language.......: Serbian
+Text...........: AC-3 5.1 SER
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 443 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: AC-3 5.1 ENG
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 1.02 GiB (9%)
+Delay..........: 
+Language.......: English
+Text...........: DTS 5.1 ENG
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1200
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2399
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP
+Element count..: 2785
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP
+Element count..: 2803
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SDH
+Element count..: 3518
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 2646
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 2692
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Spanish
+Text...........: SUP
+Element count..: 2738
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 48
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

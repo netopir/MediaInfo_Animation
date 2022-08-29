@@ -1,0 +1,143 @@
+General
+Filename.......: The.Lego.Ninjago.Movie.2017.MultiSubs.BluRay.1080p.DTS-HD.MA-5.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 41 min 26 s 622 ms
+Size...........: 11.4 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 145933
+Video Size.....: 9.18 GiB (81%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 464 MiB (4%)
+Delay..........: 
+Language.......: English
+Text...........: DD
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 16 bits
+Bit rate.......: 2 304 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 1.63 GiB (14%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1106
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2212
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 3894
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP
+Element count..: 3691
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP
+Element count..: 4210
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP
+Element count..: 3649
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Korean
+Text...........: SUP
+Element count..: 3634
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Bulgarian
+Text...........: SUP
+Element count..: 3558
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP
+Element count..: 3564
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP
+Element count..: 3572
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Thai
+Text...........: SUP
+Element count..: 3644
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Chinese
+Text...........: SUP
+Element count..: 3524
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

@@ -1,0 +1,167 @@
+General
+Filename.......: The.Addams.Family.2019.MultiSinh.BluRay.1080p.DTS-HD.MA-7.1.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 27 min 3 s 131 ms
+Size...........: 17.3 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x1036
+Aspect ratio...: 1.853:1
+Bit rate.......: 15.3 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 125184
+Video Size.....: 9.26 GiB (53%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 398 MiB (2%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 3 448 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.10 GiB (12%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 398 MiB (2%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 3 438 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.09 GiB (12%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD MA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 398 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 8 channels
+Bit Depth......: 24 bits
+Bit rate.......: 4 319 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.63 GiB (15%)
+Delay..........: 
+Language.......: English
+Text...........: DTS-HD MA 7.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1242
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2480
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP
+Element count..: 2480
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 2812
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Czech
+Text...........: SUP
+Element count..: 2474
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Hungarian
+Text...........: SUP
+Element count..: 2474
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Polish
+Text...........: SUP
+Element count..: 2478
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Romanian
+Text...........: SUP
+Element count..: 2466
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

@@ -1,0 +1,69 @@
+General
+Filename.......: Paddington.2.2017.SLOSINH.2160p.REMUX.HDR.DTS.HEVC-GENOX
+Container......: Matroska
+Duration.......: 1 h 43 min 19 s 9 ms
+Size...........: 33.4 GiB
+Attachments....: 
+
+Video
+Codec..........:  Main 10@L5.1@High 10 bits 
+Type...........: 
+Resolution.....: 3840x2160
+Aspect ratio...: 1.778:1
+Bit rate.......: 43.7 Mb/s
+Frame rate.....: 24.000 FPS
+Frame count....: 148776
+Video Size.....: 31.5 GiB (94%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 473 MiB (1%)
+Delay..........: 
+Language.......: English
+Text...........: Surround 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS  
+Channels.......: 6 channels
+Bit Depth......: 16 bits
+Bit rate.......: 1 509 kb/s
+kHz/bit........: 48.0 kHz / 16 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 1.09 GiB (3%)
+Delay..........: 
+Language.......: English
+Text...........: Surround 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 331 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: SLOVENSKI
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: 
+Element count..: 3646
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu

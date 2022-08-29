@@ -1,0 +1,211 @@
+General
+Filename.......: Toy.Story.4.2019.MultiSinh.BluRay.1080p.TrueHD-7.1.x264-DrSi.x264-DrSi
+Container......: Matroska
+Duration.......: 1 h 40 min 6 s 542 ms
+Size...........: 22.6 GiB
+Attachments....: 
+
+Video
+Codec..........:  High@L4.1 8 bits 
+Type...........: Progressive
+Resolution.....: 1920x804
+Aspect ratio...: 2.388:1
+Bit rate.......: 12.9 Mb/s
+Frame rate.....: 23.976 (24000/1001) FPS
+Frame count....: 143939
+Video Size.....: 9.05 GiB (40%)
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 320 MiB (1%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DD 5.1
+Default........: Yes
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 4 057 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.83 GiB (12%)
+Delay..........: 
+Language.......: Slovenian
+Text...........: DTS-HD HA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 321 MiB (1%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 3 536 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.47 GiB (11%)
+Delay..........: 
+Language.......: Croatian
+Text...........: DTS-HD HA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 448 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 321 MiB (1%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: DTS-HD Master Audio  
+Channels.......: 6 channels
+Bit Depth......: 24 bits
+Bit rate.......: 3 510 kb/s
+kHz/bit........: 48.0 kHz / 24 bits
+FrameRate......: 93.750 FPS (512 SPF)
+Audio Size.....: 2.45 GiB (11%)
+Delay..........: 
+Language.......: Serbian
+Text...........: DTS-HD HA 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby Digital  
+Channels.......: 6 channels
+Bit Depth......: 
+Bit rate.......: 640 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 31.250 FPS (1536 SPF)
+Audio Size.....: 458 MiB (2%)
+Delay..........: 
+Language.......: English
+Text...........: DD 5.1
+Default........: No
+Forced.........: No
+
+Audio
+Format.........: Dolby TrueHD with Dolby Atmos  
+Channels.......: 8 channels
+Bit Depth......: 
+Bit rate.......: 6 192 kb/s
+kHz/bit........: 48.0 kHz / 
+FrameRate......: 1 200.000 FPS (40 SPF)
+Audio Size.....: 4.33 GiB (19%)
+Delay..........: 
+Language.......: English
+Text...........: TrueHD Atmos 7.1
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Slovenian
+Text...........: SRT
+Element count..: 1172
+Default........: Yes
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Slovenian
+Text...........: SUP
+Element count..: 2344
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Croatian
+Text...........: SRT
+Element count..: 1622
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Croatian
+Text...........: SUP
+Element count..: 3244
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: UTF-8
+Language.......: Serbian
+Text...........: SRT
+Element count..: 1475
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Serbian
+Text...........: SUP
+Element count..: 2950
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: English
+Text...........: SUP
+Element count..: 4136
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: French
+Text...........: SUP
+Element count..: 2918
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Dutch
+Text...........: SUP
+Element count..: 2338
+Default........: No
+Forced.........: No
+
+Subtitles
+Format.........: PGS
+Language.......: Russian
+Text...........: SUP
+Element count..: 3338
+Default........: No
+Forced.........: No
+
+Menu
+Chapters.......: Menu
